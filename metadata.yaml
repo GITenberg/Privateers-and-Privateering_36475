@@ -1,0 +1,27 @@
+_repo: Privateers-and-Privateering_36475
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Statham, Edward Phillips
+    alias: Statham, E. P. (Edward Phillips)
+    deathdate: 1921
+    gutenberg_agent_id: '38293'
+    url: http://www.gutenberg.org/2009/agents/38293
+description: ''
+gutenberg_issued: '2011-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Privateering'
+- !lcsh 'Naval biography'
+title: Privateers and Privateering
+url: http://www.gutenberg.org/ebooks/36475
